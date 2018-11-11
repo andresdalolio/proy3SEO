@@ -970,3 +970,10 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+
+#nosotros p{
+  color: black;
+}
+#section_nosotros{
+  height: 200px!important;
+}
